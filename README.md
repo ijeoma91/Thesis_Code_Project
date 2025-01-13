@@ -29,17 +29,23 @@ This is a recommendation system development project. In this project, there are 
 
 ## Software to install to Run Code
 . Python 3
+
 . Colab Plus
+
 . PostgreSQL
 
 ## Program Execution/Reproduce Steps
 . Choose any virtual environment of your choice. For this project, I used Google Colab
+
 . Download all dataset which are listed in the documentation or here (They are the same)
+
 . Install all the liberiers which are listed in the note
+
 . Recommendation: Copy the code step by step and run each cell you copied
 
 ## The Main File Contains:
 . Dataset in csv file format
+
 . The code
 
 
